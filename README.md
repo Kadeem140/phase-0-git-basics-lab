@@ -1,3 +1,4 @@
+ls
 # Git Basics Lab
 
 ## Learning Goals
@@ -268,6 +269,6 @@ off what they're capable of. You did this guided by *tests*. It's common for
 developers to write tasks as tests that all fail and then slowly work to get
 them all passing. It's like a to-do list that verifies you've actually done the
 work!
-
+Hello trying to push to Main
 [github]: https://github.com/
 [pr]: https://help.github.com/en/articles/about-pull-requests
